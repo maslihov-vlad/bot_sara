@@ -1,0 +1,1 @@
+worker: python schengen_bot.py
